@@ -1,4 +1,5 @@
 # Guia de Markdown
+###### (Clique em Código para saber como fazer os efeitos)
 Estou aprendendo linguagem **Markdown** no curso em Vídeo de *Git e Github*
 ~~Está frase tem um risco nom meio!~~
 **Nome em Negrito**
