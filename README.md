@@ -1,9 +1,9 @@
 # Guia de Markdown
-Estou aprendendo linguagem **Markdown** no curso em Vídeo de *Git e Github*
-~~Está frase tem um risco nom meio!~~
-**Nome em Negrito**
-*Nome em Itálico*
-Podemos _*Misturar*_ configurações
+Estou aprendendo linguagem **Markdown** no curso em Vídeo de *Git e Github*  
+~~Está frase tem um risco nom meio!~~  
+**Nome em Negrito**  
+*Nome em Itálico*  
+Podemos ***Misturar*** configurações
 ___
 # Título
 ## Título
