@@ -1,6 +1,6 @@
 # Guia de Markdown
 Estou aprendendo linguagem **Markdown** no curso em Vídeo de *Git e Github*  
-~~Está frase tem um risco nom meio!~~  
+~~Está frase tem um risco no meio!~~  
 **Nome em Negrito**  
 *Nome em Itálico*  
 Podemos ***Misturar*** configurações
