@@ -165,7 +165,7 @@ ___
 var c = 3  
 var a = b - c   
 c = a - b  
-a = b - c`
+a = b - c`  
 Gente eu escrevi esse código em algoritimo e esqueci o valor da var a
 Qual é o valor dela?
 ______
